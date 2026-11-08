@@ -41,7 +41,7 @@ My journey started in **Mechanical & Mechatronics Engineering**, but I soon disc
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/MHShohag911" target="_blank">
+  <a href="https://github.com/iam-mh-shohag" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35"/>
   </a>
   <a href="https://linkedin.com/in/md-shohag-hossain-827146275" target="_blank">
@@ -74,7 +74,7 @@ My journey started in **Mechanical & Mechatronics Engineering**, but I soon disc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHShohag911&background=ffffff&border=e4e2e2&stroke=3178C6&ring=3178C6&fire=E34F26&currStreakNum=E34F26&currStreakLabel=E34F26&sideNums=1DD100&sideLabels=1DD100&dates=333333" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-mh-shohag&background=ffffff&border=e4e2e2&stroke=3178C6&ring=3178C6&fire=E34F26&currStreakNum=E34F26&currStreakLabel=E34F26&sideNums=1DD100&sideLabels=1DD100&dates=333333" alt="GitHub Streak" />
 </p>
 
 ---

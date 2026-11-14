@@ -44,16 +44,16 @@ My journey started in **Mechanical & Mechatronics Engineering**, but I soon disc
   <a href="https://github.com/iam-mh-shohag" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35"/>
   </a>
-  <a href="https://linkedin.com/in/md-shohag-hossain-827146275" target="_blank">
+  <a href="https://linkedin.com/in/iam-mh-shohag" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="35"/>
   </a>
-  <a href="https://www.facebook.com/MH.Shohag.911" target="_blank">
+  <a href="https://www.facebook.com/iam.mh.shohag" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="35"/>
   </a>
-  <a href="https://www.instagram.com/m_h_shohag/" target="_blank">
+  <a href="https://www.instagram.com/m_h_shohag" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="35"/>
   </a>
-  <a href="https://x.com/shohagmdhossain" target="_blank">
+  <a href="https://x.com/iam_mh_shohag" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="X (Twitter)" height="35"/>
   </a>
   <a href="https://stackoverflow.com/users/19925258/md-shohag-hossain" target="_blank">
